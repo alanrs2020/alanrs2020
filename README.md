@@ -24,10 +24,11 @@ Here are some ideas to get you started:
   <td>
   <p align='center'>
   
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
   </td>
  </tr>
  </table>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020)]
+
