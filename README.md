@@ -15,20 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a lazy programmer.
 
 
-<table>
- <tr>
-  <td>
    <a href="https://github.com/alanrs2020/flutter-filesharing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app" width="350"></a>
-<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app)](https://github.com/alanrs2020/flutter-filesharing-app) -->
-  </td>
-  <td>
-  <p align='center'>
-  
+
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
-  </td>
- </tr>
- </table>
- 
+
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020" width="350"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020)]
 
