@@ -26,6 +26,6 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020" width="350" />
  </a> -->
 
-![](https://komarev.com/ghpvc/?username=alanrs2020&color=green)
+
 
 
