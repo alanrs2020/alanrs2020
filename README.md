@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a lazy programmer.
 
 <p align="center">
-   <a href="https://github.com/alanrs2020/flutter-filesharing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app" width="350"></a>
+   <a href="https://github.com/alanrs2020/flutter-filesharing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app" width="350"/></a>
 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=radical" width="350"/></a>
  
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020" width="350"></a>
 </p>
