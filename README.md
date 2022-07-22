@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/alanrs">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alanrs21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/alanrs21?trk=profile-badge">Alan R S</a></div>
+              
 </p>
 
 - 😄 Pronouns: He/Him
