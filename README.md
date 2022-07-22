@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <table>
  <tr>
-  <td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app)](https://github.com/alanrs2020/flutter-filesharing-app)</td>
+  <td>
+   <a href="https://github.com/alanrs2020/flutter-filesharing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app" width="350"></a>
+<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app)](https://github.com/alanrs2020/flutter-filesharing-app) -->
+  </td>
   <td>
   <p align='center'>
   
@@ -26,4 +29,5 @@ Here are some ideas to get you started:
   </td>
  </tr>
  </table>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020)]
