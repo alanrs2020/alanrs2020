@@ -18,8 +18,4 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-## Most used languages
-<p align='center'>
-  
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={alanrs2020}" width="350"></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020)](https://github.com/anuraghazra/github-readme-stats)
