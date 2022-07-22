@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a lazy programmer.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app)](https://github.com/alanrs2020/flutter-filesharing-app)
+
+<table>
+ <tr>
+  <td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrs2020&repo=flutter-filesharing-app)](https://github.com/alanrs2020/flutter-filesharing-app)</td>
+  <td>
   <p align='center'>
   
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alanrs2020&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+  </td>
+ </tr>
+ </table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020)]
