@@ -10,7 +10,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project based on mobile and web.
 
 - 📫 How to reach me:
- 
+ <p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alanrs21/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alanrs">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a lazy programmer.
 
