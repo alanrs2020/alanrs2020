@@ -13,6 +13,7 @@
 
 Here are some ideas to get you started:
 -->
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on android and web based projects.
 - 🌱 I’m currently learning Android Jetpack Compose. 
 - 👯 I’m looking to collaborate on open source project based on mobile and web.
@@ -30,8 +31,7 @@ Here are some ideas to get you started:
               
 </p>
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a lazy programmer.
+
 
 
 
