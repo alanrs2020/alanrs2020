@@ -2,10 +2,10 @@
 
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alanrs21" data-version="v1">
  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/alanrs21?trk=profile-badge">
-  Alan R S  ![](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
+  Alan R S  
  </a>
 </div>
- 
+ ![PV](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
 ### Hi there 👋
 
 <!--
