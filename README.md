@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/alanrs21/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alanrs">
+  <a href="https://instagram.com/alanrs._">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  
