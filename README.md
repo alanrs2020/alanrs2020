@@ -5,7 +5,7 @@
   Alan R S  
  </a>
 </div>
- [![PV](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
+ 
 ### Hi there 👋
 
 <!--
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrs2020" width="350" />
  </a> -->
 
-
+![PV](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
