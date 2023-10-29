@@ -5,7 +5,7 @@
   Alan R S  
  </a>
 </div>
- ![PV](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
+ [![PV](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)](https://komarev.com/ghpvc/?username=alanrs2020&color=blue)
 ### Hi there 👋
 
 <!--
